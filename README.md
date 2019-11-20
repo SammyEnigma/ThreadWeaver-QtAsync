@@ -6,6 +6,12 @@ Helper for multithreaded programming
 
 Run threadweaver.pro in QtCreator.
 
+##Oringinal Repository
+
+git clone git://anongit.kde.org/threadweaver.git
+
+More info here: https://api.kde.org/frameworks/threadweaver/html/
+
 ## Introduction
 
 ThreadWeaver is a helper for multithreaded programming.  It uses a job-based
