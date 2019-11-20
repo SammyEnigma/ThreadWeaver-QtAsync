@@ -6,7 +6,7 @@ Helper for multithreaded programming
 
 Run threadweaver.pro in QtCreator.
 
-##Oringinal Repository
+## Oringinal Repository
 
 git clone git://anongit.kde.org/threadweaver.git
 
