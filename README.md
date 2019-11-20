@@ -2,6 +2,8 @@
 
 Helper for multithreaded programming
 
+![screenshot](https://github.com/Qt-Widgets/ThreadWeaver-QtAsync/blob/master/screenshot.png)
+
 ## Build
 
 Run threadweaver.pro in QtCreator.
