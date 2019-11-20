@@ -2,6 +2,10 @@
 
 Helper for multithreaded programming
 
+## Build
+
+Run threadweaver.pro in QtCreator.
+
 ## Introduction
 
 ThreadWeaver is a helper for multithreaded programming.  It uses a job-based
